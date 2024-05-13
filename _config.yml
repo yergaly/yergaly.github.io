@@ -2,3 +2,7 @@ title: Yergali Berdibayev
 logo: assets/img/yergali.png
 show_downloads: false
 theme: jekyll-theme-minimal
+header_pages:
+  - author.md
+  - kurstar.md
+  - jazbalar.md
