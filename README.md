@@ -7,7 +7,7 @@
 - BSc, Software Engineering | Kazakh National Technical University (_July 2008_)
 
 ## Work Experience
-**AI Engineer @ Big Data & AI Research Department of GAION (_February 2024 - Present_)**
+**AI Engineer @ Big Data & AI Research Center of GAION (_February 2024 - Present_)**
 - Computer Vision
 - Drone Anomaly detection
 
