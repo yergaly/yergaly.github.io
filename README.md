@@ -8,7 +8,7 @@
 
 ## Work Experience
 **AI Engineer @ Big Data & AI Research Center of GAION (_February 2024 - Present_)**
-- Computer Vision
+- Computer Vision (Fire-Smoke detection, Person tracking)
 - Drone Anomaly detection
 
 **ML Engineer @ NeoForces Ltd. (_February 2020 - January 2024_)**
